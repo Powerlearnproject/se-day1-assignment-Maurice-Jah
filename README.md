@@ -5,8 +5,7 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
-Software engineering systematically applies engineering principles, methods, and tools to develop and maintain high-quality software systems. It involves process of designing, developing, and maintaining software. It involves the analysis of networking protocols, the management of data storage systems
-It involves the
+Software engineering systematically applies engineering principles, methods, and tools to develop and maintain high-quality software systems. It involves process of designing, developing, and maintaining software. It involves the analysis of networking protocols, the management of data storage systems which involves 
 a) The study of hardware components
 b) The process of designing, developing, and maintaining software
 c) The analysis of networking protocols
