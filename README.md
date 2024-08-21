@@ -6,6 +6,11 @@ Software Engineering Day1 Assignment
 
 Explain what software engineering is and discuss its importance in the technology industry.
 Software engineering systematically applies engineering principles, methods, and tools to develop and maintain high-quality software systems. It involves process of designing, developing, and maintaining software. It involves the analysis of networking protocols, the management of data storage systems
+It involves the
+a) The study of hardware components
+b) The process of designing, developing, and maintaining software
+c) The analysis of networking protocols
+d) The management of data storage systems
 
 Software engineering plays a crucial role in the technology industry by enabling the creation of software applications and systems that power various aspects of modern life, including communication, commerce, entertainment, and healthcare
 
